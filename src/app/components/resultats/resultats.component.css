@@ -1,0 +1,12 @@
+.win{
+  color:green;
+  font-size:75px;
+}
+.loss{
+  color:rgb(255, 0, 221);
+  font-size:50px;
+}
+.equal{
+  color:blue;
+  font-size:30px;
+}
